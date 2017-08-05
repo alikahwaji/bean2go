@@ -1,0 +1,64 @@
+User stories:
+within categories we have indented later development stories.
+
+Customer:
+
+- I want to be able to sign up for Bean2Go to make ordering easier in the future
+- I want to be able to choose / toggle if I will allow my local cafes to send me offers / rewards.
+- I want to be able to move to a coffee shop search page
+  
+  Find:
+    - I want to be able to search for coffee shops
+    - I want to be able to find the nearest coffee shop
+    - I want to be able to find a specific coffee shop
+    - I want to be able to see what coffee shops are nearby
+    - I want to be able to see coffee shop hours of trading.
+      - If the shop is closed I want to be able to place and order for the next day
+    - I want to see what coffee shops are open now
+M - I want to be able to see their coffee menu
+    - I want to be able to change coffee shop
+
+  Order:
+M - I want to be able to order a coffee from their coffee menu
+  - I want to be able to customise my coffee
+  - I want to be able to be able to order more than one coffee
+  - I want to be able to be able to add comments for peculiarities around my order. ie delayed pickup time for later on.
+M- I want to be able to review the order
+M - I want to be able to cancel my order before confirmed
+M - I want to confirm and send my order
+  - I want to be able to assign my order to my account
+
+  Payment:
+    - I want to be able to pay for my order before arriving
+- I want to be able to know roughly when my order is going to be ready (non-mvp, initially default 5-10 min message)
+  - I want to be notified when my order is ready
+    - I want to be able to recieve an invoice for my purchase
+  - I want to be able to choose whether to recieve an invoice for my order.
+    - I want to be able to save or downlaod the invoice(s)
+    - I want to be able to review my invoices
+    - I want to be able to delete old invoices.
+
+
+
+Business Owner:
+M - I want to be able to Login via a Business entrance.
+  - I want to be able to edit my menu and prices.
+M - I want to be able to see current orders.
+M - I want to be able to complete an orders.
+    - I want to see my regular customers.
+  - I want to be able to adjust wait times.
+    - I want to be able to notify that the order has been started
+    - I want to be able to send a notification to customer when their order is ready.
+    - I want to be able to see daily total of sales and coffees. -> encryption, personal key, sensitive data.s
+  - I want 
+
+
+
+Additional Features:
+* If this were to become a native mobile app. 
+  - intranet setup & access to give push notifications to app when customer walks in the door.
+  - app loads menu of the day ie: offers, specials, and wait times.
+  - no cost of data and no internet connection.
+  
+* Give feedback regarding order item customisation
+* Business owner be able to send rewards or specials to loyal customers
